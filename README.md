@@ -8,58 +8,56 @@ Module Code: WEDE5020
 
 
 Project Overview:
-This project is part of the Portfolio of Evidence (POE) for WEDE5020 (Web Development). The Trevor Noah Foundation website is designed to serve as a digital presence for the organisation, highlighting its mission, vision, programs, and contact information.
+The Portfolio of Evidence (POE) for WEDE5020 (Web Development) includes this project.  The purpose of the Trevor Noah Foundation website is to provide the organisation with a digital presence by emphasising its programs, vision, mission, and contact details.
 
-The purpose of this project is to demonstrate the development of a functional, accessible, and user-friendly HTML website that meets the requirements for Phase 1.
-
+This project's goal is to show how to create an HTML website that satisfies Phase 1 standards and is useful, accessible, and easy to use.
 
 Website Goals and Objectives:
-Provide clear information about the foundation’s mission, vision, and programs.
+Clearly state the goals, objectives, and programs of the foundation.
 
-Build an easy-to-navigate structure for visitors.
+Create a framework that is simple for guests to navigate.
 
-Create a platform for engagement (enquiries, volunteering, sponsorship).
+Establish a platform for participation (volunteering, sponsorship, and queries).
 
-Ensure the site can be expanded in later phases with CSS (Part 2) and JavaScript (Part 3).
-
+Make sure JavaScript (Part 3) and CSS (Part 2) may be used to expand the site in subsequent stages.
 
 Key Features and Functionality: (Phase 1 Improved)
 
-Homepage (index.html): Hero intro, welcome text, and navigation links.
+Homepage (index.html): Navigation links, welcome text, and hero introduction.
 
-About Us (about.html): Mission, vision, history, impact stats, and team.
+About Us (about.html): Team, impact statistics, history, mission, and vision.
 
-Services (services.html): Four detailed services/programs (including Digital Skills Training).
+Services (services.html): Four comprehensive programs and services, including training in digital skills.
 
-Enquiry (enquiry.html): Functional form with placeholders, required fields, and interest selection.
+Enquiry (enquiry.html): A useful form featuring interest selection, mandatory fields, and placeholders.
 
-Contact (contact.html): Multiple offices with Google Maps embed + enquiry form.
+Contact (contact.html): Several offices with an inquiry form and a Google Maps embed.
 
-Sitemap (sitemap.html): Bonus page listing all site pages for navigation clarity.
+Sitemap (sitemap.html): An additional page that provides a clear navigation list of all site pages.
 
-Accessibility: Added alt text for images, placeholder text, and required attributes.
+Accessibility: Required attributes, placeholder text, and alt text for pictures were added.
 
-Consistent Layout: All pages now share the same navigation and footer.
+Consistent Layout: The bottom and navigation are now the same on all pages.
 
 
 Timeline and Milestones:
-Phase 1 (Improved): HTML structure, accessibility features, and sitemap (completed).
+Phase 1 (Improved): finished sitemap, accessibility features, and HTML structure.
 
-Phase 2: CSS styling (responsive layout, colors, fonts, design elements).
+Phase 2: CSS styling (colours, fonts, design elements, responsive layout).
 
-Phase 3: JavaScript interactivity (form validation, animations, SEO).
+Phase 3: Interactivity with JavaScript (form validation, SEO, animations).
 
-Part 1 Details (Improved)
+Details of Part 1 (Updated)
 
-HTML-only website with 6 core pages (including sitemap).
+Six primary pages (plus a sitemap) on an HTML-only website.
 
-Accessibility features included.
+Included are accessibility features.
 
-Bonus sitemap page added for better structure.
+A bonus sitemap page has been added for improved organisation.
 
-Placeholder areas for images.
+placeholder locations for pictures.
 
-Functional enquiry/contact forms (basic HTML).
+Contact and inquiry forms that work (basic HTML).
 
 Sitemap:
 index.html→ Homepage
@@ -82,7 +80,7 @@ Changelog:
 
 [Improved Part 1 | 29 Sept 2025] Added footer tagline: “Empowering South Africa’s youth through education”.
 
-[Improved Part 1 | Sept 2025] Ensured navigation and footers are consistent across all pages.
+[Improved Part 1 | 29 Sept 2025] Ensured navigation and footers are consistent across all pages.
 
 
 References:
